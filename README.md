@@ -52,7 +52,7 @@
   <a href="https://www.instagram.com/amirufzan/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>&nbsp;
-  <a href="https://www.codedex.io/p/LordZerav/">
+  <a href="https://www.codedex.io/@LordZerav/">
       <img src="https://img.shields.io/badge/Codedex-118A42?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEyczQuNDc3IDEwIDEwIDEwIDEwLTQuNDc3IDEwLTEwUzE3LjUzMyAyIDEyIDJ6bS00LjE2MiAxMS40ODdsMi40MTcgMi40MTkgNi44OTItNi44OTUtMS40MTQtMS40MTRsLTUuNDc4IDUuNDc3LTAuOTk2LTAuOTk2LS45MDcgLjkxNnptLTQuNDk0LTYuMTM2YzMuMDYzIDAgNS41MzggMi40NzUgNS41MzggNS41MzhzLTIuNDc1IDUuNTM4LTUuNTM4IDUuNTM4LTYuMTM2LTIuNDc1LTYuMTM2LTUuNTM4cy0zLjEwNi01LjUzOC01LjU2Mi01LjUzOHoiLz4KPC9zdmc+" alt="Codedex"/>
   </a>
 </div>
