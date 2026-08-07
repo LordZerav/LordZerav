@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>👋 Hey Everyone, I'm LordZerav</strong></h1>
+  <h1><strong>👋 Hey Everyone, I'm Amru</strong></h1>
   <p><strong>Informatika Student & Tech Enthusiast.</strong> Saya suka menjelajahi dunia Web Development, Data Science, dan Graphic Design.</p>
 </div>
 
@@ -19,13 +19,13 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/LordZerav">
+  <a href="https://github.com/by-amruu">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LordZerav&show_icons=true&theme=dark&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/LordZerav">
+  <a href="https://github.com/by-amruu">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LordZerav&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </a>
-  <a href="https://github.com/LordZerav">
+  <a href="https://github.com/by-amruu">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordZerav&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </a>
   <br>
